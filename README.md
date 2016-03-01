@@ -1,0 +1,6 @@
+模仿网易新闻的一个界面，plist文件读取数据，转换模型。
+
+xib自定义UITableViewCell，自定义Scrollview，达到Banner图片的自动滚动以及手动。
+
+注意：scrollview是加在tableView的headerview上的，以防滑动tableView时，banner不跟着上滑。
+	Banner上的文字label也是直接加在view上。
